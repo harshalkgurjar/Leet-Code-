@@ -1,3 +1,6 @@
+/*
+ * Determine whether an integer is a palindrome. Do this without extra space.
+ */
 public class Q9PalindromeNumber {
 
 	public static void main(String[] args) {
